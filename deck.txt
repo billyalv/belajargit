@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 cek
 cek
 satu
@@ -6,3 +7,6 @@ satu
 =======
 wkwkwkkwk
 >>>>>>> 7e1cc752cfa9ebff61410859a9914d189ab1bfe2
+=======
+lonte
+>>>>>>> 6888c247d316c4ead3e0c2c020a4547d94527f14
